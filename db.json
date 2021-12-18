@@ -1,6 +1,5 @@
-{
-    
   
+  {
     "DB_bullets": [
         {
           "id": 1,
@@ -10,7 +9,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 2,
@@ -19,7 +18,7 @@
           "catagories": ["Intellect", "Achieves"],
           "src_statement": " Original src statement",
           "isModified": true,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 3,
@@ -29,7 +28,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 4,
@@ -39,7 +38,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 5,
@@ -49,7 +48,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 6,
@@ -59,7 +58,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": true,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 7,
@@ -69,7 +68,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 8,
@@ -79,7 +78,7 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": true,
-          "isSelected": false,
+          "isSelected": false
         },
         {
           "id": 9,
@@ -89,19 +88,19 @@
           "src_statement": " Original src statement",
           "pageUrl": "/pageurl",
           "isModified": false,
-          "isSelected": false,
-        },
+          "isSelected": false
+        }
       ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+      "posts": [
+        { "id": 1, "title": "Post 1" },
+        { "id": 2, "title": "Post 2" },
+        { "id": 3, "title": "Post 3" }
+      ],
+      "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
+      ],
+      "profile": {
+        "name": "paragua-manage"
+      }
+    }
