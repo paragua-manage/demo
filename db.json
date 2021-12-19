@@ -1,70 +1,70 @@
 [
     {
        "id":1,
-       "Original-Statement":"Original-Statement",
-       "Modified-Statement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-       "InfoFromSchool-Score":1,
-       "Big-Six":[
+       "OriginalStatement":"OriginalStatement",
+       "ModifiedStatement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
+       "InfoFromSchoolScore":1,
+       "BigSix":[
           "Intellect",
           "Presence"
        ]
     },
     {
         "id":2,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"sdgggggggggggggh rthrct cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"sdgggggggggggggh rthrct cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
      },
      {
         "id":3,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"thrct cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"thrct cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
      },
      {
         "id":4,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhht cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhht cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
      },
      {
         "id":5,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
      },
      {
         "id":6,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvdvsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvdvsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
      },
      {
         "id":7,
-        "Original-Statement":"Original-Statement",
-        "Modified-Statement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchool-Score":1,
-        "Big-Six":[
+        "OriginalStatement":"OriginalStatement",
+        "ModifiedStatement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
+        "InfoFromSchoolScore":1,
+        "BigSix":[
            "Intellect",
            "Presence"
         ]
