@@ -1,74 +1,129 @@
-[
-    {
-       "id":1,
-       "OriginalStatement":"OriginalStatement",
-       "ModifiedStatement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-       "InfoFromSchoolScore":1,
-       "BigSix":[
-          "Intellect",
-          "Presence"
-       ]
+{
+    "statements": [
+      {
+        "id": 1,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 1     ectetur adipisorper viverra. Dllus neque lacinia eros, vitae consequat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      },
+      {
+        "id": 2,
+        "ModifiedStatement": "statement 2 - ORIGINAL THAT HAS BEEN DUPLICATED FROM",
+        "OriginalStatement": " Original src statement",
+        "pageUrl": "/pageurl",
+        "BigSix": ["Intellect", "Achieves"],
+        "isModified": true,
+        "Qualitative": false
+      },
+      {
+        "id": 3,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 2    usce eu e, ut sagitti sit amet lobortis l non scelerisque ultrices, tellus neque lacinia eros, vitae consequat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      },
+      {
+        "id": 4,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 3  lor sit amet, consectetsce eu efficitur torte vel velit ullamcorper viverra. Donec ullamcorper, est non scelerisque ulte consequat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      },
+      {
+        "id": 5,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 4 Lorem ipsum lobortis loremuat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      },
+      {
+        "id": 6,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewablestatement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewablestatement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewable",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": true,
+        "Qualitative": false
+      },
+      {
+        "id": 7,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 4 Lorem ipsum lobortis loremuat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      },
+      {
+        "id": 8,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewablestatement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewablestatement 5  is a very long to line sentance on we can see wrapper will prob want to set a character limit for what is viewable",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": true,
+        "Qualitative": false
+      },
+      {
+        "id": 9,
+        "OriginalStatement": " Original src statement",
+        "ModifiedStatement": "statement 4 Lorem ipsum lobortis loremuat sem ipsum ut felis. Lo",
+        "BigSix": ["Intellect", "Achieves"],
+        "pageUrl": "/pageurl",
+        "isModified": false,
+        "Qualitative": false
+      }
+    ],
+    "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" },
+      { "id": 3, "title": "Post 3" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "paragua-manage"
     },
-    {
-        "id":2,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"sdgggggggggggggh rthrct cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     },
-     {
-        "id":3,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"thrct cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     },
-     {
-        "id":4,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhht cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     },
-     {
-        "id":5,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     },
-     {
-        "id":6,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvdvsdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     },
-     {
-        "id":7,
-        "OriginalStatement":"OriginalStatement",
-        "ModifiedStatement":"sdfdfgd fdg dfgdf dgrth gfjhnty jnf tchrt htfh rthrct cth rthtfh cth t",
-        "InfoFromSchoolScore":1,
-        "BigSix":[
-           "Intellect",
-           "Presence"
-        ]
-     }
-    
- ]
- 
+    "events": [
+      {
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day",
+        "description": "Find your new feline friend at this event.",
+        "location": "Meow Town",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 456,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 789,
+        "category": "sustainability",
+        "title": "Beach Cleanup",
+        "description": "Help pick up trash along the shore.",
+        "location": "Playa Del Carmen",
+        "date": "July 22, 2022",
+        "time": "11:00",
+        "organizer": "Carey Wales"
+      }
+    ]
+  }
